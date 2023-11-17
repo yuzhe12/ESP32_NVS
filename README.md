@@ -1,4 +1,4 @@
 # ESP32_NVS
 这是一个关于，在arduino ide环境中使用esp32nvs存储器的示例
 我自己在主函数中写了一个使用示例
-然后自己写了一个库分别包含PreferencesHelper.cpp和PreferencesHelper.h两个文件
+然后自己又写了一个库分别包含PreferencesHelper.cpp和PreferencesHelper.h两个文件
